@@ -229,3 +229,20 @@ docker ps -a
 docker ps
 clear
 docker ps 
+git commit -m "my docker files"
+git add .
+git commit -m "my docker files"
+git config --global user.name "sai"
+git config --global user.email "sreehari036@gmail.com"
+[200~git remote add origin https://github.com/sreehari036/dockerfiles730am.git~
+git remote add origin https://github.com/sreehari036/dockerfiles730am.git
+clear
+ls
+git branch -M main
+git push -u origin main
+clear
+vi Docker file
+ls
+vi Dockerfile
+vi Docker file
+logout
