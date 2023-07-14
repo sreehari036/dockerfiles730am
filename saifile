@@ -1,0 +1,3 @@
+FROM ubuntu
+RUN echo "Good morning!!" > /tmp/newfile
+
